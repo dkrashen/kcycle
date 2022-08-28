@@ -1,0 +1,24 @@
+testing: true
+
+# Site settings
+# Course Info
+title: "Algebraic K-theory and Algebraic Cycles"
+email: "&#x64;&#x61;&#x6e;&#x69;&#x65;&#x6c;&period;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&plus;&#x67;&#x72;&#x61;&#x70;&#x68;&#x74;&#x68;&#x79;&commat;&#x67;&#x6d;&#x61;&#x69;&#x6c;&period;&#x63;&#x6f;&#x6d;"
+email: "&#x64;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&#x40;&#x75;&#x70;&#x65;&#x6e;&#x6e;&#x2e;&#x65;&#x64;&#x75;"
+tagline: "University of Pennsylvania, MATH 7020, Fall 2022."
+description: "Topics in Algebra: Algebraic K-theory and Algebraic Cycles"
+instructor: "Danny Krashen"
+instructor-email: "&#x64;&#x6b;&#x72;&#x61;&#x73;&#x68;&#x65;&#x6e;&#x40;&#x75;&#x70;&#x65;&#x6e;&#x6e;&#x2e;&#x65;&#x64;&#x75;"
+office: "DRL 3E6"
+office-hour: "TBA"
+
+baseurl: "/kcycle"
+
+# url: "localhost:4000"
+url: "http://dkrashen.org"
+
+analytics: "False"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
