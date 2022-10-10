@@ -24,4 +24,7 @@
   filename: "lecture8.pdf"
 - title: "Lecture 9 (9/29/2022)"
   description: "Statement of the Panin-Smirnov-Grothendieck-Hirzebruch-Riemann-Roch Theorem"
-  filename: "lecture9.pdf"
+  filename: "lecture10.pdf"
+- title: "Lecture 10 (10/4/2022)"
+  description: "Classical (lower) K-theory"
+  filename: "lecture10.pdf"
