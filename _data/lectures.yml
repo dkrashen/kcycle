@@ -40,3 +40,6 @@
 - title: "Lecture 14 (10/20/2022)"
   description: "Projective bundles, introduction to division algebras and Galois cohomology."
   filename: "lecture14.pdf"
+- title: "Lecture 15 (10/20/2022)"
+  description: "The story of algebraic structures, introduction to the Brown-Gersten-Quillen spectral sequence."
+  filename: "lecture15.pdf"
